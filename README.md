@@ -1,3 +1,4 @@
+minha primeira tentativa de fazer um jogo, é feito em flutter. Não está bom mas é uma boa base 
 # primeiro_jogo
 
 A new Flutter project.
